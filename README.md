@@ -27,7 +27,7 @@ Designed for clarity, performance, and a modern UI.
 
 ## 📸 Preview
 
-![Portfolio Screenshot](Screenshot%202025-11-20%20052944.png)
+![Portfolio Screenshot](preview.png)
 
 ---
 
