@@ -22,7 +22,7 @@ const projects = [
     title: 'AWS serverless C',
     description: 'Exploring computer graphics by building a basic ray tracer from scratch. An ongoing project to understand light rendering, shadows, and reflections. [work in progress]',
     techStack: ['C++', 'Linear Algebra', 'Graphics'],
-    imageUrl: 'https://picsum.photos/seed/raytracing/600/400',
+    imageUrl: '/aws.jpg',
     githubUrl: 'https://github.com/krishkapila-hckr', // Update with actual link
   },
 ];
